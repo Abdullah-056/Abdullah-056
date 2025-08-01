@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Asif</h1>
 <h3 align="center">I'm deeply passionate about technology and the limitless possibilities it offers for innovation and collaboration.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-056&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-056" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah-056" alt="abdullah-056" /></a> </p>
-
 - 🔭 I’m currently working on [Customer Retention Analysis](https://www.kaggle.com/code/abdullahasiff/telecom-churn-prediction)
 
 - 🌱 I’m currently learning **Python, AI/ML**
